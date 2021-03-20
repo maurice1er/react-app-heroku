@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          Hello World
+          <h2>Hello World</h2>
     
           <p>This is the react app deploy with Heroku</p>
       </header>
